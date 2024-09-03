@@ -11,3 +11,5 @@ Welcome to my GitHub page. I'm a Machine Learning & Data Engineer with experienc
 <a href="mailto:aitouakoursaid@gmail.com">
 <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">Inbox 📫</g-emoji></a> or on my LinkedIn Page <a href="https://www.linkedin.com/in/said-ait-ouakour-68a93a1b0/">
 <img src="imgs/LinkedIn-blue.svg" style="max-width: 100%;"></a>
+
+![](https://komarev.com/ghpvc/?username=said-ait-ouakour&color=peach)
