@@ -1,11 +1,6 @@
 ### Hi There! 👋🧑‍💻
 
-Welcome to my GitHub page. I'm a Machine Learning & Data Engineer with experience in a variety of technologies, Here are some of the things I'm working on right now:
-
-- 🌑Developing AI Models
-- 🖇️Building APIs
-- 🤖Build and Deploy Machine learning models
-- ☁️Migrating a legacy codebase to the cloud
+Welcome to my GitHub page. I'm a Data Engineer passionate about AI and Software Development, experienced in various technologies.
 
 <p style="font-weight:bold">I am here to help you bring your ideas to life. If you have any questions or would like to connect, please feel free to reach out to me on my
 <a href="mailto:aitouakoursaid@gmail.com">
